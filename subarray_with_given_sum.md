@@ -13,6 +13,7 @@ Constraints:
 
 Example:
 Input:
+```
 2
 5 12
 1 2 3 7 5
@@ -21,7 +22,7 @@ Input:
 Output:
 2 4
 1 5
-
+```
 Explanation : 
 Testcase1: sum of elements from 2nd position to 4th position is 12
 Testcase2: sum of elements from 1st position to 5th position is 15
