@@ -47,7 +47,9 @@ L is an integer within the range [1..50,000];
 each element of array A is an integer within the range [1..L];
 each element of array B is an integer within the range [1..30].
 
+-----
 
+## Solutions
 
 ```
 import java.util.LinkedList;
