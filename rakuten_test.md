@@ -96,6 +96,8 @@ class Main {
     }
 
   public static void main(String[] args) {
+    String ret = solution(6,3,1);
+    String ret = solution(1,3,1);
     String ret = solution(0,1,8);
     System.out.println(ret);
   }
